@@ -6,4 +6,4 @@
 
 <img src="https://github.com/litong19930321/TTRenameFast/blob/master/showpic_1.png" width="320px" />
 
-界面如图所示，选择完工程跟目录，输入原始前缀和修改后的前缀即可
+界面如图所示，选择完工程根目录，输入原始前缀和修改后的前缀即可
